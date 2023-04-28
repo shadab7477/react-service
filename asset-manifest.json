@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-service/static/css/main.fc567941.css",
-    "main.js": "/react-service/static/js/main.ad9ab911.js",
+    "main.js": "/react-service/static/js/main.052b940a.js",
     "static/media/shadab2.jpg": "/react-service/static/media/shadab2.0db9239da5045f4e3b9e.jpg",
     "static/media/png5.webp": "/react-service/static/media/png5.e810c3dee78d9edbc073.webp",
     "static/media/png11.avif": "/react-service/static/media/png11.9c9bdd5529b29fb198e0.avif",
@@ -12,10 +12,10 @@
     "static/media/png8.jpg": "/react-service/static/media/png8.8aacf5e8e9e2aea42361.jpg",
     "index.html": "/react-service/index.html",
     "main.fc567941.css.map": "/react-service/static/css/main.fc567941.css.map",
-    "main.ad9ab911.js.map": "/react-service/static/js/main.ad9ab911.js.map"
+    "main.052b940a.js.map": "/react-service/static/js/main.052b940a.js.map"
   },
   "entrypoints": [
     "static/css/main.fc567941.css",
-    "static/js/main.ad9ab911.js"
+    "static/js/main.052b940a.js"
   ]
 }
