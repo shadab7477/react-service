@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/presnol/static/css/main.fc567941.css",
+    "main.js": "/presnol/static/js/main.ec654437.js",
+    "static/media/shadab2.jpg": "/presnol/static/media/shadab2.0db9239da5045f4e3b9e.jpg",
+    "static/media/png5.webp": "/presnol/static/media/png5.e810c3dee78d9edbc073.webp",
+    "static/media/png11.avif": "/presnol/static/media/png11.9c9bdd5529b29fb198e0.avif",
+    "static/media/png10.webp": "/presnol/static/media/png10.a6861ca6687568a56767.webp",
+    "static/media/png13.avif": "/presnol/static/media/png13.f94a39631944d41d2fe8.avif",
+    "static/media/png12.avif": "/presnol/static/media/png12.e84967150f1bb0183ad7.avif",
+    "static/media/png9.webp": "/presnol/static/media/png9.a21b3bdf112d62de9bad.webp",
+    "static/media/png8.jpg": "/presnol/static/media/png8.8aacf5e8e9e2aea42361.jpg",
+    "index.html": "/presnol/index.html",
+    "main.fc567941.css.map": "/presnol/static/css/main.fc567941.css.map",
+    "main.ec654437.js.map": "/presnol/static/js/main.ec654437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc567941.css",
+    "static/js/main.ec654437.js"
+  ]
+}
